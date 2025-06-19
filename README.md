@@ -9,8 +9,8 @@ This project implements a high-frequency analysis framework to detect episodes o
 ## Motivation
 
 Traditional econometric tools often fall short when it comes to identifying explosive price regimes or early signs of bubbles—especially in high-volatility sectors like crypto or oil. This project uses **5-minute intraday data** to identify significant explosive episodes in:
-- 🇺🇸 US Stocks & Indices (e.g., JPM, NFLX, S&P 500)
-- 🇪🇺 European Equities (e.g., ASML, NOVOB)
+- US Stocks & Indices (e.g., JPM, NFLX, S&P 500)
+- European Equities (e.g., ASML, NOVOB)
 - Commodities (e.g., Brent, Gold)
 - Forex Pairs (e.g., EUR/USD, USD/JPY)
 - Cryptocurrencies (e.g., BTC, ETH)
