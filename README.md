@@ -2,7 +2,7 @@
 
 This project implements a high-frequency analysis framework to detect episodes of explosive behavior in asset prices using the **GSADF methodology** by Boswijk et al. (2024). The focus lies in testing market bubbles, volatility bursts, and regime shifts across diverse asset classes using **recursive Dickey-Fuller tests** and **realized volatility-based devolatization**.
 
-> Developed as part of the *Financial Big Data* project at EPFL (June 2025).
+> Developed as part of the *Financial Big Data* project at EPFL (January 2025).
 
 ---
 
