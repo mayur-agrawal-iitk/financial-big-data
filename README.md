@@ -1,1 +1,1 @@
-# financial-big-data
+# fin_big_data_project
